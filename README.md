@@ -10,6 +10,7 @@ elif num1 % 2 == 0:#se agrega el "%" para saber si el valor que agregaste es par
     print("El numero seleccionado es par...")#Si el valor que seleccionaste es par te saltara este texto.
 else :#Sirve tambien para saber si el valor es par o impar.
     print("El numero seleccionado es impar...")#Si el valor que seleccionaste es impar te saltara este texto.
+    
+![image](https://github.com/user-attachments/assets/53b70301-91f2-4a16-949f-96cb1b2b8ce4)
 
-    ![image](https://github.com/user-attachments/assets/53b70301-91f2-4a16-949f-96cb1b2b8ce4)
 
